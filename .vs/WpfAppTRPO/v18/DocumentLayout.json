@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\KURSACH\\WpfAppTRPO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}|WpfAppTRPO\\WpfAppTRPO.csproj|f:\\kursach\\wpfapptrpo\\wpfapptrpo\\views\\logreturnbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}|WpfAppTRPO\\WpfAppTRPO.csproj|solutionrelative:wpfapptrpo\\views\\logreturnbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}|WpfAppTRPO\\WpfAppTRPO.csproj|F:\\KURSACH\\WpfAppTRPO\\wpfapptrpo\\views\\readereditadd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}|WpfAppTRPO\\WpfAppTRPO.csproj|solutionrelative:wpfapptrpo\\views\\readereditadd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}|WpfAppTRPO\\WpfAppTRPO.csproj|F:\\KURSACH\\WpfAppTRPO\\wpfapptrpo\\views\\employeeeditadd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}|WpfAppTRPO\\WpfAppTRPO.csproj|solutionrelative:wpfapptrpo\\views\\employeeeditadd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}|WpfAppTRPO\\WpfAppTRPO.csproj|F:\\KURSACH\\WpfAppTRPO\\wpfapptrpo\\models\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}|WpfAppTRPO\\WpfAppTRPO.csproj|solutionrelative:wpfapptrpo\\models\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogReturnBook.xaml.cs",
+              "DocumentMoniker": "F:\\KURSACH\\WpfAppTRPO\\WpfAppTRPO\\Views\\LogReturnBook.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppTRPO\\Views\\LogReturnBook.xaml.cs",
+              "ToolTip": "F:\\KURSACH\\WpfAppTRPO\\WpfAppTRPO\\Views\\LogReturnBook.xaml.cs",
+              "RelativeToolTip": "WpfAppTRPO\\Views\\LogReturnBook.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T21:24:48.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReaderEditAdd.xaml.cs",
+              "DocumentMoniker": "F:\\KURSACH\\WpfAppTRPO\\WpfAppTRPO\\Views\\ReaderEditAdd.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppTRPO\\Views\\ReaderEditAdd.xaml.cs",
+              "ToolTip": "F:\\KURSACH\\WpfAppTRPO\\WpfAppTRPO\\Views\\ReaderEditAdd.xaml.cs",
+              "RelativeToolTip": "WpfAppTRPO\\Views\\ReaderEditAdd.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH1SURBVDhP3ZG/axNhGMe/7\u002BXea8z1TWsil9zFiyFFkRJLJsFUCoezIeDg5ODi4CQ42D/AwaWLCO7d3JIQBHHolCxdHCTYFDNI7oc5ohJj7kKu7zlojlYpiqMfeOF93\u002B/Dh\u002BfhIfjJ49ZBOS4Jr3JsSaACbqWnescwSLDIT4Pg/l4ZAG5eWb109fzy89eHX5JGke2ts2/PXu4\u002B/TCdTgEAmqahVqsFAN4ZhhGJRQj8AQC0\u002B\u002BPU52mQOBh64tpZ6Xp5Jcjn83nP933MZjOEYQjXdceapm13Op03lUrF\u002B9HBw7YCAI8qK6VCWn6xu\u002B\u002Beu3dNwdaFJRx5X8E5h23baDQa8H2fV6vVw2QyeXc\u002Bn\u002B8bhhEI2NkcYmdzmF2mn4KjgG/fyGGrkEBCBGRZBmMMsiyDc47RaCQ0m82Lpmk\u002BAXAZAITFLAVYWBM\u002BYkOJ4UyMg3O\u002BiEApRSaTgaqqiMfjQrvdTtbrdREAYouibHo161qDOxuldVkUo28AgCRJ0HUdpVIJxWIRvV7PsSyr0e12nagDy7IwGAwQBL9vjlIKRVGQy\u002BWgqioopVEWCQAgDMPjz7/ihOBf\u002BN8EhBDYtg3TNE89juOc2JS4uDDGPELI21arlSaERAW/wjnHZDLpMcY8HBfouv7etu3b/X7/j2OlUqlA1/UxAHwH\u002BgjDd6w0k2AAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-09-10T21:24:49.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "F:\\KURSACH\\WpfAppTRPO\\WpfAppTRPO\\Models\\Reader.cs",
+              "RelativeDocumentMoniker": "WpfAppTRPO\\Models\\Reader.cs",
+              "ToolTip": "F:\\KURSACH\\WpfAppTRPO\\WpfAppTRPO\\Models\\Reader.cs",
+              "RelativeToolTip": "WpfAppTRPO\\Models\\Reader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJWSURBVDhP3dK9TxNhHMDx33NvlLZcT6CWRGK0VEmA0NSEKsYXEtMBWSqxIRgWIotxNBY34yLOOhEcSRgcOjFUgqUMJJYEElISoRXsYc\u002B23B1c6ZXrPcc9TiZG/wL97N/tC/DPowEAUiTFjMfGBfc9d4s5YLp8D3yuYDTYNHFtorGysoIGY4PnjLtGc\u002BxpDM\u002B\u002Bnm0tXS85vL1eXEgXbIoQQnF5Lly1qgkLrC13i3vLw3i2BLfwoXyz3L4v719pkEYCmzghHUthpaGsYhMnSq2lMLwEikluJ4WiXpxel9YHvE4vOxma/OKgHVbdqsuB84FmE5vPlveX\u002B0RNhNxRLm7Z1qWD6oHPtu1HgdZAllkqLjH6qX6RpmgY7hpepxn6BUGkKlflUz/ylwlD5sMXwndyag4ompofvTp6u3xSPtRN/WOH2lFn1r6ugcfpgVBHaM8gxuPI5cgOQsgGACCEUJIsVXiOxxzNobbmtkq7s91mGRbbYB\u002BnIW1TAAA0ooFClJWX88qvGABA0zRBP9PnFrILXTvqjn\u002B1sPo\u002B/iku7Mq7AQB43sP3CEzQFwQMGMRj0aEZWl8ym1SBBaholdPNo81Cp7NzOhKITCuGghCg2anQVHxuc07bU/beeU\u002B8VSbaHbXyWl7MfM/cMs/Mt2JNxCzNgo713Y0fG0\u002BGBocyoirGeYaHkc6RQq\u002Bvt8AzPDaQIaZfpS1ECKEWs4s3irXim9S3VLd0IgHfxINf8G\u002B7WNfYzP2Zw9\u002B\u002B\u002BQuFELJdfa6M0CJEoQb9al3tr5v1fr1Jf8h95pQ/g//QT\u002BaWH13Gr9nTAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-09-10T21:24:49.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeEditAdd.xaml.cs",
+              "DocumentMoniker": "F:\\KURSACH\\WpfAppTRPO\\WpfAppTRPO\\Views\\EmployeeEditAdd.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppTRPO\\Views\\EmployeeEditAdd.xaml.cs",
+              "ToolTip": "F:\\KURSACH\\WpfAppTRPO\\WpfAppTRPO\\Views\\EmployeeEditAdd.xaml.cs",
+              "RelativeToolTip": "WpfAppTRPO\\Views\\EmployeeEditAdd.xaml.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswF4AAAAgAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH1SURBVDhP3ZG/axNhGMe/7\u002BXea8z1TWsil9zFiyFFkRJLJsFUCoezIeDg5ODi4CQ42D/AwaWLCO7d3JIQBHHolCxdHCTYFDNI7oc5ohJj7kKu7zlojlYpiqMfeOF93\u002B/Dh\u002BfhIfjJ49ZBOS4Jr3JsSaACbqWnescwSLDIT4Pg/l4ZAG5eWb109fzy89eHX5JGke2ts2/PXu4\u002B/TCdTgEAmqahVqsFAN4ZhhGJRQj8AQC0\u002B\u002BPU52mQOBh64tpZ6Xp5Jcjn83nP933MZjOEYQjXdceapm13Op03lUrF\u002B9HBw7YCAI8qK6VCWn6xu\u002B\u002Beu3dNwdaFJRx5X8E5h23baDQa8H2fV6vVw2QyeXc\u002Bn\u002B8bhhEI2NkcYmdzmF2mn4KjgG/fyGGrkEBCBGRZBmMMsiyDc47RaCQ0m82Lpmk\u002BAXAZAITFLAVYWBM\u002BYkOJ4UyMg3O\u002BiEApRSaTgaqqiMfjQrvdTtbrdREAYouibHo161qDOxuldVkUo28AgCRJ0HUdpVIJxWIRvV7PsSyr0e12nagDy7IwGAwQBL9vjlIKRVGQy\u002BWgqioopVEWCQAgDMPjz7/ihOBf\u002BN8EhBDYtg3TNE89juOc2JS4uDDGPELI21arlSaERAW/wjnHZDLpMcY8HBfouv7etu3b/X7/j2OlUqlA1/UxAHwH\u002BgjDd6w0k2AAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-09-10T21:24:49.121Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfAppTRPO.Views.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppTRPO.Views"
+        mc:Ignorable="d"
+        Background="#E498B6"
+        Title="LibraryLogin" Height="1080" Width="1920" WindowState="Maximized">
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="Background" Value="#E9AFEC"/>
+            <Setter Property="Foreground" Value="#9D5D91"/>
+            <Setter Property="BorderBrush" Value="#9D5D91"/>
+            <Setter Property="BorderThickness" Value="10"/>
+            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="5"/>
+        </Style>
+    </Window.Resources>
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Background="#D37EAB">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="39"/>
+        </Grid.RowDefinitions>
+        <Label x:Name="labelLibrary" Content="БИБЛИОТЕКА" Grid.Row="0" FontSize="55" FontWeight="Bold" Foreground="#FCC165" HorizontalContentAlignment="Center" Margin="0,50,0,20"/>
+        <TextBox x:Name="textBoxLogin" Text="" Grid.Row="1" FontSize="40" TextWrapping="Wrap" Margin="30,10,30,10" Height="90"  Width="560" TextChanged="TextBox_TextChanged" ToolTip="Поле для логина"/>
+        <TextBox x:Name="textBoxPassword" Text=""  Grid.Row="2" FontSize="40" TextWrapping="Wrap" Margin="30,10,30,10" Height="90" Width="560" TextChanged="TextBox_TextChanged" ToolTip="Поле для пароля"/>
+        <Button x:Name="buttonConfirm" Content="войти" Grid.Row="3" FontSize="40" HorizontalAlignment="Center" Margin="30,10,30,20" Height="100" Width="560" Click="ButtonConfirm_Click"/>
+        <Label x:Name="labelWarning" Content="" Grid.Row="4" HorizontalAlignment="Center" FontSize="24" Foreground="#FCC165" FontWeight="Bold"/>
+    </Grid>
+</Window>

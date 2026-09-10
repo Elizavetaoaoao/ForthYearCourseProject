@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfAppTRPO.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppTRPO.Views"
+        Background="#9D5D91"
+        mc:Ignorable="d" Title="Библиотека" Height="1080" Width="1920" WindowState="Maximized">
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <TextBlock x:Name="textBoxDateTime" Text=".1/.1/.1" Foreground="#E9AFEC" VerticalAlignment="Top" HorizontalAlignment="Left" Height="50" Margin="16,0,0,0" FontSize="30"/>
+        <Button x:Name="buttonBack" Width="149" Height="82" VerticalAlignment="Top" HorizontalAlignment="Right" Click="buttonBack_Click" Margin="0,-5,100,0">
+            <Button.Background>
+                <ImageBrush ImageSource="/Views/back.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="buttonMain" Content="" Width="57" Height="53" VerticalAlignment="Bottom" HorizontalAlignment="Left" Click="buttonMain_Click" Margin="10,0,0,10">
+            <Button.Background>
+                <ImageBrush ImageSource="/Views/exit.png" Stretch="UniformToFill"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="buttonClose" Content="" Width="83" Height="64" VerticalAlignment="Top" HorizontalAlignment="Right" Click="buttonClose_Click">
+            <Button.Background>
+                <ImageBrush Stretch="Uniform" ImageSource="/Views/home.png"/>
+            </Button.Background>
+        </Button>
+        <Frame Name="MainFrame" NavigationUIVisibility="Hidden" Height="750" Width="1420" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+    </Grid>
+</Window>

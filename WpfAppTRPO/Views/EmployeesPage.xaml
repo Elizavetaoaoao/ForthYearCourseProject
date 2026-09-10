@@ -1,0 +1,39 @@
+﻿<Page x:Class="WpfAppTRPO.Views.EmployeesPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfAppTRPO.Views"
+      mc:Ignorable="d"
+      Title="Сотрудники" Background="#E9AFEC">
+    <Page.Resources>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="40"/>
+            <Setter Property="Foreground" Value="#9D5D91"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Background" Value="#FCC165"/>
+            <Setter Property="Padding" Value="20"/>
+            <Setter Property="Margin" Value="20,0,20,20"/>
+            <Setter Property="HorizontalAlignment" Value="Stretch"/>
+            <Setter Property="BorderThickness" Value="0"/>
+        </Style>
+    </Page.Resources>
+    <Grid Margin="80,30,80,20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="buttonBack" Content="" Background="Transparent" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Name="buttonAdd" Content="Новый сотрудник" VerticalAlignment="Center" HorizontalAlignment="Right" Click="ButtonAdd_Click"/>
+            <Button Name="buttonDelete" Content="Удалить сотрудника" VerticalAlignment="Center" HorizontalAlignment="Right" Click="ButtonDelete_Click"/>
+            <Button x:Name="buttonRefresh" Content="" Width="79" Height="72" Click="ButtonRefresh_Click">
+                <Button.Background>
+                    <ImageBrush ImageSource="/Views/reload.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+        </StackPanel>
+        <DataGrid x:Name="dataGridEmployees" Grid.Row="1" Background="White" IsReadOnly="True" SelectionUnit="FullRow" ColumnWidth="*" MouseDoubleClick="DgEmp_MouseDoubleClick"/>
+    </Grid>
+</Page>

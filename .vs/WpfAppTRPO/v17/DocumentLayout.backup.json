@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\Documents\\KURSACH\\WpfAppTRPO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}|WpfAppTRPO\\WpfAppTRPO.csproj|c:\\users\\\u0435\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\documents\\kursach\\wpfapptrpo\\wpfapptrpo\\views\\logreturnbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}|WpfAppTRPO\\WpfAppTRPO.csproj|solutionrelative:wpfapptrpo\\views\\logreturnbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}|WpfAppTRPO\\WpfAppTRPO.csproj|c:\\users\\\u0435\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\documents\\kursach\\wpfapptrpo\\wpfapptrpo\\views\\readereditadd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}|WpfAppTRPO\\WpfAppTRPO.csproj|solutionrelative:wpfapptrpo\\views\\readereditadd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}|WpfAppTRPO\\WpfAppTRPO.csproj|c:\\users\\\u0435\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\documents\\kursach\\wpfapptrpo\\wpfapptrpo\\views\\employeeeditadd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}|WpfAppTRPO\\WpfAppTRPO.csproj|solutionrelative:wpfapptrpo\\views\\employeeeditadd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}|WpfAppTRPO\\WpfAppTRPO.csproj|c:\\users\\\u0435\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\documents\\kursach\\wpfapptrpo\\wpfapptrpo\\models\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}|WpfAppTRPO\\WpfAppTRPO.csproj|solutionrelative:wpfapptrpo\\models\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogReturnBook.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\Documents\\KURSACH\\WpfAppTRPO\\WpfAppTRPO\\Views\\LogReturnBook.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppTRPO\\Views\\LogReturnBook.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\Documents\\KURSACH\\WpfAppTRPO\\WpfAppTRPO\\Views\\LogReturnBook.xaml.cs*",
+              "RelativeToolTip": "WpfAppTRPO\\Views\\LogReturnBook.xaml.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T14:02:28.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReaderEditAdd.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\Documents\\KURSACH\\WpfAppTRPO\\WpfAppTRPO\\Views\\ReaderEditAdd.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppTRPO\\Views\\ReaderEditAdd.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\Documents\\KURSACH\\WpfAppTRPO\\WpfAppTRPO\\Views\\ReaderEditAdd.xaml.cs",
+              "RelativeToolTip": "WpfAppTRPO\\Views\\ReaderEditAdd.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:23:04.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\Documents\\KURSACH\\WpfAppTRPO\\WpfAppTRPO\\Models\\Reader.cs",
+              "RelativeDocumentMoniker": "WpfAppTRPO\\Models\\Reader.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\Documents\\KURSACH\\WpfAppTRPO\\WpfAppTRPO\\Models\\Reader.cs",
+              "RelativeToolTip": "WpfAppTRPO\\Models\\Reader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:23:16.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeEditAdd.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\Documents\\KURSACH\\WpfAppTRPO\\WpfAppTRPO\\Views\\EmployeeEditAdd.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppTRPO\\Views\\EmployeeEditAdd.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0437\u0430\u0432\u0435\u0442\u0430\\Documents\\KURSACH\\WpfAppTRPO\\WpfAppTRPO\\Views\\EmployeeEditAdd.xaml.cs",
+              "RelativeToolTip": "WpfAppTRPO\\Views\\EmployeeEditAdd.xaml.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswF4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:10:57.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

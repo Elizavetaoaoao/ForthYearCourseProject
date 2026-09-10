@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppTRPO", "WpfAppTRPO\WpfAppTRPO.csproj", "{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppTRPO_reader", "WpfAppTRPO_reader\WpfAppTRPO_reader.csproj", "{1985BE00-4EEB-48ED-8522-196624B98B14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{7955A3AF-AF7D-411E-9656-8C82CA002A12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6E8425-8E8A-4F6F-9AB8-3F185DA18D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1985BE00-4EEB-48ED-8522-196624B98B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1985BE00-4EEB-48ED-8522-196624B98B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1985BE00-4EEB-48ED-8522-196624B98B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1985BE00-4EEB-48ED-8522-196624B98B14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7955A3AF-AF7D-411E-9656-8C82CA002A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7955A3AF-AF7D-411E-9656-8C82CA002A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7955A3AF-AF7D-411E-9656-8C82CA002A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7955A3AF-AF7D-411E-9656-8C82CA002A12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
