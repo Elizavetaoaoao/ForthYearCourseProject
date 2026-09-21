@@ -1,9 +1,9 @@
 # Курсовой проект
-Данный проект представляет собой курсовую работу на 4 год обучения по предмету **"Технология разработки программного обеспечения"**.
+This project is a 4-year course of study on **"Software development technology"**.
 
-Проект является приложением для работы с локальной базой данных библиотеки на **Microsoft SQL Server**, написанным на платформе **WPF .NET Framework 4.8**, использующем **язык XAML**.
+The project is an application for working with a local library database on **Microsoft SQL Server**, written on the platform **WPF .NET Framework 4.8** using **XAML language**.
 
-Также в проекте присутствует файл **Unit Test**, проверяющий 3 метода работы с данными в базе, такие как: 
-*  "Поиск по атрибутам записи",
-*  "Удаление записи",
-*  "Проверка существования записи с указанными атрибутами".
+Also present in the project is a **Unit Test** file that validates 3 methods of working with data in the database, such as: 
+*  "Record attribute lookup",
+*  "Delete record",
+*  "Verification of the existence of a record with specified attributes".
